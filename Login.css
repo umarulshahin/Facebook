@@ -1,0 +1,170 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background-color: #3b5998;
+    
+
+}
+body{
+    margin: 0px;
+     font-family: Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif ;
+}
+.facebook{
+    color: #fff;
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+  
+     margin-left: 170px;
+   
+}
+.logo{
+    width: 50%;
+    padding-top: 32px; 
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.login-div{
+   
+    margin-left: 250px;
+    margin-top: 10px;
+    
+}
+.login-label1{
+    color: #fff;
+    font-size: 12px;
+    height: 17px;
+}
+.login-label2{
+    color: #fff;
+    font-size: 12px;
+    height: 17px;
+    margin-left:10px;
+}
+.pass{
+    margin-left:10px;
+}
+.forgotten{
+    color:#9daccb;
+    font-size: 11px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.button{
+ background-color: #4870c6;
+ color: #fff;
+ height: 20px;
+ border-color: #213c76;
+ cursor: pointer;
+ margin-left: 10px;
+}
+.button:hover{
+    background-color:#213c76;
+
+}
+.main-body{
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(185,202,222,1) 100%);
+}
+.left-section{
+    width: 58%;
+    float: left;
+    padding-left: 169px;
+    padding-top: 65px;
+
+}
+.right-section{
+    width: 30%;
+    float:left;
+   padding-top: 20px;
+
+}
+.word{
+    font-weight: bold;
+    font-size: 20px;
+    color: #243b6c;
+
+}
+.image{
+    width:75%;
+}
+.firstname{
+    height: 25px;
+    border-radius: 3px;
+    border-color: #fff;
+}
+.surname{
+    height: 25px;
+    border-radius: 3px;
+    border-color: #fff;
+    margin-left: 10px;
+}
+.email{
+    width: 348px;
+    height: 25px;
+    margin-top: 10px;
+    border-radius: 3px;
+    border-color: #fff;
+}
+.Bday{
+    font-size: 12px;
+    color:#969696;
+font-weight: bold;
+}
+.day{
+    height: 22px;
+    border-color:#969696;
+
+}
+.month{
+   
+    height: 22px;
+    margin-left: -5px;
+    border-color:#969696;
+}
+.year{
+  
+    height: 22px;
+    margin-left: -5px;
+    border-color:#969696;
+}
+
+.q {
+    width: 15px;
+    margin-left: 8px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: grey;
+    height: 15px;
+    font-size: 11px;
+    font-weight: bolder;
+    padding-left: 2px;
+    cursor: pointer;
+}
+.P-blue{
+    font-size: 10px;
+    color:#3b5998;
+}
+.p{
+    font-size: 10px;
+    color: #969696;
+}
+.signup{
+    height: 30px;
+    width: 170px;
+    border-radius: 5px;
+    background-color: #61a14f;
+    border-color: #78b15c;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+}
+.signup:hover{
+    background-color:#398314;
+}
